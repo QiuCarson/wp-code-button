@@ -1,7 +1,7 @@
 === WP-code-button ===
-Contributors: Ğ¡ËÉ
+Contributors: å°æ¾
 Donate link: http://www.phpsong.com/
-Tags: highlighting,code,Prettify,´úÂë¸ßÁÁ
+Tags: highlighting,code,Prettify,ä»£ç é«˜äº®
 Requires at least: 2.7
 Tested up to: 0.1
 Stable tag: trunk
@@ -10,7 +10,7 @@ This plugin code prettify plugin using google code prettify. the code higlightin
 
 == Description ==
 
-This plugin code prettify plugin using google code prettify.This plugin highlighting of code snippets in your post for WordPress Blog. | ÔÚÄã²©¿ÍÎÄÕÂÖĞÊ¹ÓÃGoogle Code PrettifyÃÀ»¯´úÂë¡£
+This plugin code prettify plugin using google code prettify.This plugin highlighting of code snippets in your post for WordPress Blog. | åœ¨ä½ åšå®¢æ–‡ç« ä¸­ä½¿ç”¨Google Code Prettifyç¾åŒ–ä»£ç ã€‚
 
 
 Related Links:
@@ -20,7 +20,7 @@ Related Links:
 == Changelog ==
 V 0.1
 
-1£¬½â¾ö»ùÓÚ Google Code Prettify ÊµÏÖµÄWordPress´úÂë¸ßÁÁ²å¼ş,ºóÌ¨´ø´úÂë²åÈë¹¦ÄÜ
+1ï¼Œè§£å†³åŸºäº Google Code Prettify å®ç°çš„WordPressä»£ç é«˜äº®æ’ä»¶,åå°å¸¦ä»£ç æ’å…¥åŠŸèƒ½
 
 
 == Screenshots ==
@@ -40,7 +40,7 @@ wp-code-button for WordPress
 
 == Translations ==
 
-´Ë²å¼şÖ§³ÖÄ¿Ç°Ö»Ö§³ÖÖĞÎÄ¡£
+æ­¤æ’ä»¶æ”¯æŒç›®å‰åªæ”¯æŒä¸­æ–‡ã€‚
 
 
 
