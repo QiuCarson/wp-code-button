@@ -1,10 +1,10 @@
 === WP-code-button ===
-Contributors: 小松
-Donate link: http://www.phpsong.com/
-Tags: highlighting,code,Prettify,代码高亮
-Requires at least: 2.7
-Tested up to: 0.1
-Stable tag: trunk
+Contributors: 小松<br/>
+Donate link: http://www.phpsong.com/<br/>
+Tags: highlighting,code,Prettify,代码高亮<br/>
+Requires at least: 2.7<br/>
+Tested up to: 0.1<br/>
+Stable tag: trunk<br/>
 
 This plugin code prettify plugin using google code prettify. the code higlighting effect will be seen directly in the tinymce editor.
 
