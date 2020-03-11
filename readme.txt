@@ -1,3 +1,6 @@
+### D8主题 插件
+线上测试过，可以用，有问题请到小松博客留言
+
 === WP-code-button ===
 Contributors: 小松
 Donate link: http://www.phpsong.com/
