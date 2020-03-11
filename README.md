@@ -20,10 +20,13 @@
 
 ### 后台添加插入代码按钮
 
-https://raw.githubusercontent.com/QiuCarson/wp-code-button/master/screenshot-1.png
+
+
+![](https://raw.githubusercontent.com/QiuCarson/wp-code-button/master/screenshot-1.png)
 
 主要解决wordpress 后台复制代码的时候格式被打乱了
 
 ### 前端代码样式
 
-https://github.com/QiuCarson/wp-code-button/blob/master/screenshot-2.png
+![](https://raw.githubusercontent.com/QiuCarson/wp-code-button/master/screenshot-2.png)
+
