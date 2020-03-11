@@ -3,7 +3,7 @@
 Plugin Name:WP-code-button
 Plugin URI: http://www.phpsong.com/1645.html
 Description: 一个基于 Google Code Prettify 实现的WordPress代码高亮插件,后台带代码插入功能
-Version: 0.1 
+Version: 0.4 
 Author: 小松
 Author URI:  http://www.phpsong.com/
 */
@@ -32,17 +32,18 @@ function register_wpgcp_button($buttons)
 
 // Load the TinyMCE plugin : editor_plugin.js (wp2.5)
 function add_wpgcp_tinymce_plugin($plugin_array){
-    $plugin_array['wpgcp'] = plugins_url('/editor_plugin.js', __FILE__);
+    $plugin_array['wpgcp'] = get_option('siteurl') . '/wp-content/plugins/wp-code-button/editor_plugin.js';
     return $plugin_array;
 }
 
-function xiaosong_prettify_script() {
+function prettify_script() {
 	if(is_single()){
 		wp_enqueue_style( 'prettify-style12', plugins_url('/prettify.css', __FILE__) );
-		wp_enqueue_script('prettify-script',plugins_url('/prettify.js', __FILE__),array('jquery'));
+
+		wp_enqueue_script('prettify-script',plugins_url('/prettify.js', __FILE__),array(),false,true);
 	}
 }
-add_action('wp_enqueue_scripts', 'xiaosong_prettify_script');
+add_action('wp_enqueue_scripts', 'prettify_script');
 
 
 

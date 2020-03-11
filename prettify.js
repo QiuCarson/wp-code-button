@@ -29,6 +29,13 @@ o.className&&e.test(o.className)){m=!0;break}if(!m){d.className+=" prettyprinted
 {h:m,c:d,j:u,i:o};K(r)}}}i<p.length?setTimeout(g,250):"function"===typeof a&&a()}for(var b=d||document.body,s=b.ownerDocument||document,b=[b.getElementsByTagName("pre"),b.getElementsByTagName("code"),b.getElementsByTagName("xmp")],p=[],m=0;m<b.length;++m)for(var j=0,k=b[m].length;j<k;++j)p.push(b[m][j]);var b=q,c=Date;c.now||(c={now:function(){return+new Date}});var i=0,r,n=/\blang(?:uage)?-([\w.]+)(?!\S)/,e=/\bprettyprint\b/,v=/\bprettyprinted\b/,w=/pre|xmp/i,t=/^code$/i,f=/^(?:pre|code|xmp)$/i,
 h={};g()}};typeof define==="function"&&define.amd&&define("google-code-prettify",[],function(){return Y})})();}()
 
+function loadJS(filename){
+	var fileref=document.createElement("script");
+	fileref.setAttribute("type","text/javascript");
+	fileref.setAttribute("src", filename); 
+	document.getElementsByTagName("head")[0].appendChild(fileref);
+} 
+if (typeof jQuery == "undefined") loadJS("//lib.sinaapp.com/js/jquery/1.8.2/jquery.min.js");
 jQuery(document).ready(function($) {
 	$("pre").addClass("prettyprint linenums");
 	 prettyPrint();
