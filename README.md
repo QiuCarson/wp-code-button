@@ -1,50 +1,24 @@
 
-### D8主题 插件
-在我的博客使用D8主题的时候用的就是这个版本，样式上没有什么问题，有问题请到<a href="https://www.phpsong.com/1645.html">小松博客</a>留言
 
-=== WP-code-button ===
-Contributors: 小松<br/>
-Donate link: http://www.phpsong.com/<br/>
-Tags: highlighting,code,Prettify,代码高亮<br/>
-Requires at least: 2.7<br/>
-Tested up to: 0.1<br/>
-Stable tag: trunk<br/>
+### wordpress 代码美化插件
 
-This plugin code prettify plugin using google code prettify. the code higlighting effect will be seen directly in the tinymce editor.
+代码插件已经在wordpress代码仓库上已经找不到了，所以在github上把代码分享出来
 
-== Description ==
+### 注意主题样式冲突
 
-This plugin code prettify plugin using google code prettify.This plugin highlighting of code snippets in your post for WordPress Blog. | 在你博客文章中使用Google Code Prettify美化代码。
+目前反向主题样式样式上有冲突
 
+目前小松使用过的主题插件的样式调整过了
 
-Related Links:
-* <a href="http://www.phpsong.com">Plugin Homepage</a>
-* <a href="http://code.google.com/p/google-code-prettify/">Google Code Prettify</a>
+1. D8主题 [看这里](https://github.com/QiuCarson/wp-code-button/tree/D8)
+2. justnews主题 [看这里](https://github.com/QiuCarson/wp-code-button/tree/D8)
+3. dux主题 [看这里](https://github.com/QiuCarson/wp-code-button/tree/dux)
 
-== Changelog ==
-V 0.1
-
-1，解决基于 Google Code Prettify 实现的WordPress代码高亮插件,后台带代码插入功能
+如不是以上主题，又有样式问题请 自己修改 [prettify.css](https://github.com/QiuCarson/wp-code-button/blob/dux/prettify.css) 文件
 
 
-== Screenshots ==
-
-1. click here to insert your code
-2. the code in your tinymce editor
 
 
-== Installation ==
-
-(1) unzip the wp-code-button.zip file in /wp-content/plugins
-
-(2) Active the plugin 
-
-wp-code-button for WordPress
-
-
-== Translations ==
-
-此插件支持目前只支持中文。
 
 
 
