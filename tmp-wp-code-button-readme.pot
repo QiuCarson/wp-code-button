@@ -1,0 +1,79 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WP-code-button"
+msgstr ""
+
+#. Short description.
+msgid "This plugin code prettify plugin using google code prettify. the code higlighting effect will be seen directly in the tinymce editor."
+msgstr ""
+
+#. Screenshot description.
+msgid "click here to insert your code"
+msgstr ""
+
+#. Screenshot description.
+msgid "the code in your tinymce editor"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin code prettify plugin using google code prettify.This plugin highlighting of code snippets in your post for WordPress Blog. | 在你博客文章中使用Google Code Prettify美化代码，很酷的代码高亮插件"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Related Links:\n"
+"* <a href=\"http://www.phpsong.com\">Plugin Homepage</a>\n"
+"* <a href=\"http://code.google.com/p/google-code-prettify/\">Google Code Prettify</a>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "(1) unzip the wp-code-button.zip file in /wp-content/plugins"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "(2) Active the plugin"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "wp-code-button for WordPress"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"V 0.4\n"
+"添加代码换行样式，如果没有jquery就添加jqeruy"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "V 0.3"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "1、修改样式"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "V 0.2"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "1、修改js底部加载"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "V 0.1"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "1、解决基于 Google Code Prettify 实现的WordPress代码高亮插件,后台带代码插入功能"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Translations"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "此插件支持目前只支持中文。"
+msgstr ""

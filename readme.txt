@@ -1,16 +1,19 @@
+### D8主题 插件
+线上测试过，可以用，有问题请到小松博客留言
+
 === WP-code-button ===
 Contributors: 小松
 Donate link: http://www.phpsong.com/
 Tags: highlighting,code,Prettify,代码高亮
 Requires at least: 2.7
-Tested up to: 0.1
+Tested up to: 4.3.1
 Stable tag: trunk
 
 This plugin code prettify plugin using google code prettify. the code higlighting effect will be seen directly in the tinymce editor.
 
 == Description ==
 
-This plugin code prettify plugin using google code prettify.This plugin highlighting of code snippets in your post for WordPress Blog. | 在你博客文章中使用Google Code Prettify美化代码。
+This plugin code prettify plugin using google code prettify.This plugin highlighting of code snippets in your post for WordPress Blog. | 在你博客文章中使用Google Code Prettify美化代码，很酷的代码高亮插件
 
 
 Related Links:
@@ -18,9 +21,21 @@ Related Links:
 * <a href="http://code.google.com/p/google-code-prettify/">Google Code Prettify</a>
 
 == Changelog ==
+V 0.4
+添加代码换行样式，如果没有jquery就添加jqeruy
+
+V 0.3
+
+1、修改样式
+
+V 0.2
+
+1、修改js底部加载
+
+
 V 0.1
 
-1，解决基于 Google Code Prettify 实现的WordPress代码高亮插件,后台带代码插入功能
+1、解决基于 Google Code Prettify 实现的WordPress代码高亮插件,后台带代码插入功能
 
 
 == Screenshots ==
