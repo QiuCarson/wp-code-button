@@ -1,6 +1,7 @@
 
 ### D8主题 插件
-线上测试过，可以用，有问题请到<a href="https://www.phpsong.com/1645.html">小松博客</a>留言
+在我的博客使用D8主题的时候用的就是这个版本，样式上没有什么问题，有问题请到<a href="https://www.phpsong.com/1645.html">小松博客</a>留言
+
 === WP-code-button ===
 Contributors: 小松<br/>
 Donate link: http://www.phpsong.com/<br/>
